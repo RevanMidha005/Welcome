@@ -1,0 +1,64 @@
+it is where you destroy a block and create a block while being a block
+
+
+
+whwgkvsfsmcirsghfcmopzcqyobrqfsohsopzcqykvwzspswbuopzcqy
+
+
+:XB>w;rTC#_#4PVo|UR2]*.{*T]xVQSn%z~2O[pvb%L)Mn?nZg_=L{wCc%rw_^wn,Jrge
+
+
+
+it is where you destroy a block and create a block while being a block
+
+
+
+==================================================================================
+
+
+The github repository will contain a readme file and a program to guess the movie. 
+
+The readme file will contain the below cipher text 
+
+ |
+\/
+
+D8mf"<WC)6K)OF6eBSuf;WWY|$u!nuomaB1c|<+e%y+#>xbp(n&g;W2:Q&E2`)omHSdKP7weH
+
+Wueymf Nmpu Wgffu Otqql Tmu Emmxu Wmntu Ntu Bmxmf Vmmfu Tmu
+
+Kismat Badi Kutti Cheez Hai Saali Kabhi Bhi Palat Jaati Hai
+
+after deciphering the dialogue they will now move to the program. If they guess the movie they advance to the next round otherwise they will be stuck running it again and again until the time runs out.
+
+if they are smart enough they can guess the movie just by seeing the program, they can guess the movie while playing hangman which is basically the code we are providing to help them figure out the movie. after figuring out the movie, they need to open the readme text file again as it contains another hint to move to the next level. 
+
+the hint will be -> }L+f1]aC -> Adimuh -> Answer
+
+This will be hidden in the text file.(A lot of random empty lines will be given in the file, if they figure out that they need can scroll down in the file, they will find the code, if they dont they are stuck again.
+
+After figuring out the code "Answer", they now need to go to sinusoid.in/Answer.html . In which they have to enter Happy New Year, so that they advance to a new level.
+
+
+
+
+ |
+\/
+
+with the help of the dialogue 
+hangman will be given and they have to guess the movie happy new year
+
+after guessing happy new year they will advance to a new level
+
+
+https://github.com/RevanMidha005/Welcome <--Github repo
+zhdts://wqjazt.qyq/rudqgrarre005/wutshrw <--Github repo (Ciphered)
+
+
+https://youtu.be/dQw4w9WgXcQ?si=b_k2AywzWudqQoGB <-- Rickroll
+giuwx://hjtiv.ij/mlv4l9xncll?rx=c_r2fhrylvkvzjfq <--Rickroll (ciphered)
+
+
+Let vigenere rot for sins thy have committed!!
+
+Vigenere cipher key= ZPBHFJV , SOKEAQIQTF
